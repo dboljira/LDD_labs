@@ -1,0 +1,1 @@
+cmd_/home/doljira/mptcp/LDD-LAB/kmodule/tcpstat.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/doljira/mptcp/LDD-LAB/kmodule/tcpstat.ko /home/doljira/mptcp/LDD-LAB/kmodule/tcpstat.o /home/doljira/mptcp/LDD-LAB/kmodule/tcpstat.mod.o
